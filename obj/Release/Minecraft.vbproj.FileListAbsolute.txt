@@ -1,4 +1,0 @@
-C:\Users\DarkLBP\Documents\SharpDevelop Projects\Minecraft\Minecraft\obj\Release\Minecraft.vbprojResolveAssemblyReference.cache
-C:\Users\DarkLBP\Documents\SharpDevelop Projects\Minecraft\Minecraft\bin\Release\Minecraft.dll
-C:\Users\DarkLBP\Documents\SharpDevelop Projects\Minecraft\Minecraft\obj\Release\Minecraft.dll
-C:\Users\DarkLBP\Documents\SharpDevelop Projects\Minecraft\Minecraft\bin\Release\fastJson.dll
